@@ -2,6 +2,9 @@
 # Ignore these files when commiting to a git repository
 #----------------------------------------------------------------------------
 
+# c9.io artifacts
+/.c9revisions
+
 # bundler state
 /.bundle
 /vendor/bundle/
